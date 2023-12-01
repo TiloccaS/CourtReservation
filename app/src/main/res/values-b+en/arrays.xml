@@ -1,0 +1,25 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <string-array name="sport">
+
+        <item>calcio</item>
+        <item>pallacanestro</item>
+        <item>tennis</item>
+    </string-array>
+    <string-array name="genders2">
+
+        <item>Uomo</item>
+        <item>Donna</item>
+        <item>Non specificato</item>
+    </string-array>
+
+</resources>

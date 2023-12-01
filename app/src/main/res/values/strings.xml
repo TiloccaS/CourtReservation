@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">Court reservation</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+
+    <!-- General -->
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm password</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+
+    <!-- users fields -->
+    <string name="name">Name</string>
+    <string name="surname">Surname </string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="birthday">Birthday</string>
+    <string name="phone_number">Phone number</string>
+    <string name="sports">Sports</string>
+    <string name="bio">>Bio</string>
+    <string name="football_rating">Football rating</string>
+    <string name="tennis_rating">tennis_rating</string>
+    <string name="basket_rating">basket_rating</string>
+    <string name="show_fullname">show_fullname</string>
+    <string name="show_email">show_email</string>
+    <string name="show_sports">show_sports</string>
+    <string name="show_phone_number">show_phone_number</string>
+    <string name="show_birthday">show_birthday</string>
+    <string name="profile_photo">profile_photo</string>
+
+    <!-- User profile -->
+    <string name="name_label">Name</string>
+    <string name="surname_label">Surname</string>
+    <string name="username_label">Username</string>
+    <string name="profile_details_label">Profile details</string>
+    <string name="gender_label">Gender</string>
+    <string name="phone_number_label">Phone number</string>
+    <string name="birthday_label">Date of birth</string>
+    <string name="email_label">Email</string>
+    <string name="skills_label">Skills</string>
+
+<!--    https://stackoverflow.com/questions/4161256/referencing-a-string-in-a-string-array-resource-with-xml-->
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="other">Other</string>
+
+    <string-array name="genders">
+        <item>@string/man</item>
+        <item>@string/woman</item>
+        <item>@string/other</item>
+    </string-array>
+
+    <string name="from_camera">From Camera</string>
+    <string name="add_sport">Click to add a Sport</string>
+    <string name="select_sports">Select sports</string>
+    <string name="football_label">Football</string>
+    <string name="football_rating_label">Football rating</string>
+    <string name="basket_label">Basket</string>
+    <string name="basket_rating_label">Basket rating</string>
+    <string name="tennis_label">Tennis</string>
+    <string name="tennis_rating_label">Tennis rating</string>
+    <string name="insert_birthday_label">Insert your birthday</string>
+    <string name="delete_football_label">Delete football</string>
+    <string name="delete_basket_label">Delete basket</string>
+    <string name="delete_tennis_label">Delete tennis</string>
+    <string name="request">Request</string>
+
+    <string name="out_of">out of</string>
+    <string name="currently">Currently</string>
+    <string name="wants_to_join_your_group_for_the_game_in">wants to join your group for the game in</string>
+    <string name="user">User</string>
+    <string name="you_cant_join_this_reservation_due_to_an_error">You can\'t join this reservation due to an error</string>
+    <string name="to_join">join</string>
+
+
+    <!-- Miscellaneous-->
+    <string name="profile">Profile</string>
+    <string name="confirm">Confirm</string>
+    <string name="create_reservation">Create reservation</string>
+    <string name="success">Success</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="available_slots_for">Available slots for</string>
+    <string name="are_you_sure_you_want_to">Are you sure you want to</string>
+    <string name="this_reservation">this reservation</string>
+    <string name="enter_number_of_participants">Enter number of participants</string>
+    <string name="participants">Participants</string>
+    <string name="enter_number_of_rented_equipment">Enter number of rented equipment</string>
+    <string name="equipment">Equipment</string>
+    <string name="equipments_requested">equipments requested</string>
+
+
+    <string name="no_available_slots_for">No available slots for</string>
+    <string name="reservations_for">Reservations for</string>
+    <string name="no_reservations_for">No reservations for</string>
+    <string name="slots_for">Slots for</string>
+
+    <string name="change_date">Change date</string>
+    <string name="choose_reservation_date">Choose reservation date</string>
+    <string name="show_only_not_read">Show only not read</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="rate_this_reservation">Rate this reservation</string>
+    <string name="field_cannot_be_empty">Field can not be empty</string>
+
+    <string name="done">Done</string>
+
+    <string name="all">All</string>
+    <string name="add">Add</string>
+    <string name="courts">Courts</string>
+    <string name="reservations">Reservations</string>
+    <string name="join">Join</string>
+    <string name="edit">Edit</string>
+    <string name="edit_reservation_slot">Edit reservation slot</string>
+
+    <string name="our_courts">Our courts</string>
+    <string name="author">Author</string>
+    <string name="review">Review</string>
+    <string name="the_reservation_for_the_court">The reservation for the court</string>
+    <string name="on__date">on</string>
+    <string name="has_been_added_successfully">has been added succesfully</string>
+    <string name="has_been_edited_successfully">has been edited succesfully</string>
+    <string name="has_been_deleted_successfully">has been deleted succesfully</string>
+
+    <string name="has_not_been_added_due_to_an_error">has not been added due to an error</string>
+    <string name="has_not_been_deleted_due_to_an_error">has not been deleted due to an error</string>
+
+    <string name="enter_value">Enter value</string>
+    <string name="passwords_dont_correspond">Passwords don\'t correspond</string>
+    <string name="the_email_is_mandatory">The email is mandatory</string>
+    <string name="the_password_is_mandatory">The password is mandatory</string>
+    <string name="welcome">Welcome</string>
+    <string name="and_lets_get_started">and let\'s get started! Add your personal information in the "Profile" section and reserve a court by clicking the + button in the "Reservations" section!</string>
+
+    <string name="show_availability">Show availability</string>
+
+    <string name="select_image">Select an image</string>
+    <string name="take_photo">Take a picture</string>
+
+    <string name="SharedPreference">SharedField</string>
+    <string name="registration">Registration</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="put_here_the_attributes">Put here the attributes</string>
+    <string name="select_gender">Select a gender</string>
+    <string name="bio_label">Insert bio here</string>
+    <string name="title_activity_chosen_confirmation">ChosenConfirmation</string>
+    <string name="title_activity_show_profile_compose">ShowProfileCompose</string>
+    <string name="title_activity_list_court">ListCourt</string>
+
+    <!-- onboarding -->
+    <string name="step_1_title">Welcome to Team Finder!</string>
+    <string name="step_1_body">Discover Team Finder, your ultimate court reserving and team-building platform!</string>
+    <string name="step_2_title">Create a reservation</string>
+    <string name="step_2_body">By clicking the + button you can easily browse the slots by date, sport and court. After you select the slot, you can confirm your reservation!</string>
+    <string name="step_3_title">Browse your reservartions</string>
+    <string name="step_3_body">The reservations will appear here and you will have the possibility to check, edit or delete your reservations!</string>
+    <string name="step_4_title">Review the court</string>
+    <string name="step_4_body">When the reservation has passed, you will be given the possibility to rate the court, by clicking on the star icon!</string>
+    <string name="step_5_title">Join a team</string>
+    <string name="step_5_body">By navigating to \"Join\" you can browse the existing reservation by the other players which are missing some people, join them!</string>
+    <string name="step_6_title">View a court</string>
+    <string name="step_6_body">By navigating to the court icon it will be possible to see all the courts, check the details, watch the reviews, see the availability and eventually create a reservation!</string>
+    <string name="join_teamfinder">Join Team FInder!</string>
+    <string name="skip_tutorial">Skip the tutorial</string>
+    <string name="the_user">The user : </string>
+    <string name="accepted_reservation">accepted your reservation on  :</string>
+
+    <string name="decline_reservation">decline your request at the reservation on:</string>
+    <string name="cancel_reservation">has cancelled his reservation</string>
+    <string name="has_been_deleted">has been deleted</string>
+    <string name="max_people_joinable">Maximum people who can join</string>
+    <string name="people_joinable">People who can join</string>
+    <string name="reservation_open">Reservation open to all </string>
+    <string name="currently_there_are">Currently there are </string>
+    <string name="not_have_less"> participants you can not have less</string>
+    <string name="this_user_is_confirmed">This user is confirmed for reservation on date</string>
+    <string name="this_user_want_join">This user is asking to join your reservation on date</string>
+    <string name="profile_detail">Profile Details</string>
+</resources>

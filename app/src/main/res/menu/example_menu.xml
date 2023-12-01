@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/photo"
+    android:title="Snap Photo"
+    >
+</item>
+    <item
+        android:id="@+id/Gallery"
+        android:title="Choose Photo"
+        >
+    </item>
+    <item
+        android:id="@+id/DeletePhoto"
+        android:title="Delete Photo"></item>
+</menu>

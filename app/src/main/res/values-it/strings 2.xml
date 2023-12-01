@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Prenotazione campi</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messaggi</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+
+    <!-- General -->
+    <string name="login">Accedi</string>
+    <string name="logout">Esci</string>
+
+    <string name="register">Registrati</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Conferma password</string>
+    <string name="cancel">Annulla</string>
+    <string name="apply">Conferma</string>
+    <string name="delete">Cancella</string>
+    <string name="back">Indietro</string>
+
+    <!-- users fields -->
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="gender">Genere</string>
+    <string name="birthday">Data di nascita</string>
+    <string name="phone_number">Cellulare</string>
+    <string name="sports">Sport</string>
+    <string name="bio">Bio</string>
+    <string name="football_rating">football_rating</string>
+    <string name="tennis_rating">tennis_rating</string>
+    <string name="basket_rating">basket_rating</string>
+    <string name="show_fullname">show_fullname</string>
+    <string name="show_email">show_email</string>
+    <string name="show_sports">show_sports</string>
+    <string name="show_phone_number">show_phone_number</string>
+    <string name="show_birthday">show_birthday</string>
+    <string name="profile_photo">profile_photo</string>
+
+    <!-- User profile -->
+    <string name="name_label">Nome</string>
+    <string name="surname_label">Cognome</string>
+    <string name="username_label">Username</string>
+    <string name="profile_details_label">Dettagli profilo</string>
+    <string name="gender_label">Genere</string>
+    <string name="phone_number_label">Cellulare</string>
+    <string name="birthday_label">Data di nascita</string>
+    <string name="email_label">Email</string>
+    <string name="skills_label">Abilità</string>
+
+    <string name="man">Uomo</string>
+    <string name="woman">Donna</string>
+    <string name="other">Altro</string>
+
+    <string-array name="genders">
+        <item>@string/man</item>
+        <item>@string/woman</item>
+        <item>@string/other</item>
+    </string-array>
+    <string name="create_reservation">Effettua una prenotazione</string>
+
+    <string name="from_camera">From Camera</string>
+    <string name="add_sport">Clicca per aggiungere uno Sport</string>
+    <string name="select_sports">Seleziona sport</string>
+    <string name="football_label">Calcio</string>
+    <string name="football_rating_label">Football rating</string>
+    <string name="basket_label">Pallacanestro</string>
+    <string name="basket_rating_label">Basket rating</string>
+    <string name="tennis_label">Tennis</string>
+    <string name="tennis_rating_label">Tennis rating</string>
+    <string name="insert_birthday_label">Inserisci la tua data di nascita</string>
+    <string name="delete_football_label">Delete football</string>
+    <string name="delete_basket_label">Delete basket</string>
+    <string name="delete_tennis_label">Delete tennis</string>
+
+
+    <!-- Miscellaneous-->
+    <string name="profile">Profilo</string>
+    <string name="confirm">Conferma</string>
+    <string name="show_only_not_read">Mostra solo non lette</string>
+    <string name="mark_as_read">Segna come lette</string>
+    <string name="SharedPreference">SharedField</string>
+    <string name="registration">Registrazione</string>
+    <string name="title_activity_edit_profile">Modifica profilo</string>
+    <string name="success">Successo</string>
+    <string name="out_of">di</string>
+    <string name="currently">Al momento</string>
+    <string name="user">L\'utente</string>
+    <string name="to_join">unirti a</string>
+    <string name="request">Richiedi</string>
+
+
+    <string name="you_cant_join_this_reservation_due_to_an_error">Non puoi unirti a questa prenotazione a causa di un errore</string>
+
+    <string name="wants_to_join_your_group_for_the_game_in">vuole unirsi al tuo gruppo per la partita in</string>
+    <string name="unexpected_error">Errore inaspettato</string>
+    <string name="rate_this_reservation">Valuta questa prenotazione</string>
+    <string name="field_cannot_be_empty">Il campo non può essere vuoto</string>
+    <string name="edit_reservation_slot">Modifica lo slot di prenotazione</string>
+
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="put_here_the_attributes">Put here the attributes</string>
+    <string name="welcome">Benvenuta/o</string>
+    <string name="done">Fatto</string>
+    <string name="has_not_been_added_due_to_an_error">non è stata aggiunta a causa di un errore</string>
+    <string name="and_lets_get_started">cominciamo! Aggiungi le tue informazioni personali nella sezione "Profilo" e prenota un campo cliccando il tasto "+" nella sezione "Prenotazioni"!</string>
+
+    <string name="select_gender">Seleziona un genere</string>
+    <string name="select_image">Seleziona una immagine</string>
+    <string name="the_reservation_for_the_court">La prenotazione per il campo</string>
+    <string name="on__date">per il</string>
+    <string name="has_been_edited_successfully">è stata modificata correttamente</string>
+    <string name="has_been_deleted_successfully">è stata cancellata con successo</string>
+    <string name="has_not_been_deleted_due_to_an_error">non è stata cancellata a causa di un errore</string>
+    <string name="passwords_dont_correspond">Le password non corrispondono</string>
+    <string name="the_email_is_mandatory">L\'email è obbligatoria</string>
+    <string name="the_password_is_mandatory">La password è obbligatoria</string>
+
+
+    <string name="has_been_added_successfully">è stata aggiunta correttamente</string>
+    <string name="take_photo">Scatta una foto</string>
+    <string name="available_slots_for">Slot diponibili per il</string>
+    <string name="no_available_slots_for">Nessuno slot disponibile per il</string>
+    <string name="reservations_for">Prenotazioni per il</string>
+    <string name="no_reservations_for">Nessuna prenotazione per il</string>
+    <string name="slots_for">Slots per il</string>
+    <string name="add">Aggiungi</string>
+    <string name="courts">Campi</string>
+    <string name="reservations">Prenotazioni</string>
+    <string name="join">Unisciti</string>
+    <string name="our_courts">I nostri campi</string>
+    <string name="author">Autore</string>
+    <string name="review">Recensione</string>
+    <string name="enter_value">Inserisci un valore</string>
+    <string name="show_availability">Mostra disponibilità</string>
+    <string name="are_you_sure_you_want_to">Sicuro di voler</string>
+    <string name="this_reservation">questa prenotazione</string>
+    <string name="enter_number_of_participants">Inserisci il numero di partecipanti</string>
+    <string name="participants">Partecipanti</string>
+    <string name="enter_number_of_rented_equipment">Inserisci la quantità di attrezzatura noleggiata</string>
+    <string name="equipment">Attrezzatura</string>
+    <string name="equipments_requested">Attrezzatura/e richieste</string>
+    <string name="all">Tutto</string>
+    <string name="edit">modificare</string>
+
+    <string name="change_date">Cambia data</string>
+    <string name="choose_reservation_date">Scegli la data della prenotazione</string>
+    <string name="bio_label">Inserisci la bio qui</string>
+    <string name="title_activity_chosen_confirmation">ChosenConfirmation</string>
+    <string name="title_activity_show_profile_compose">ShowProfileCompose</string>
+    <string name="title_activity_list_court">ListCourt</string>
+    <!-- onboarding -->
+    <string name="step_1_title">Benvenuto in Team Finder!</string>
+    <string name="step_1_body">Scopri Team Finder, la piattaforma definitiva per la prenotazione dei campi e la ricerca di un team!</string>
+    <string name="step_2_title">Crea una prenotazione</string>
+    <string name="step_2_body">Cliccando il pulsante + puoi ricercare gli slot per data, sport e campo e una volta selezionato lo slot, puoi confermare la prenotazione.</string>
+    <string name="step_3_title">Guarda le tue prenotazioni</string>
+    <string name="step_3_body">Qui potrai vedere le tue prenotazioni e avrai la possibilità di vederle, modificarle o eliminarle.</string>
+    <string name="step_4_title">Recensisci i campi</string>
+    <string name="step_4_body">Passata la data della prenotazione, avrai la possibilità di valutare un campo ed eventualmente inserire una recensione.</string>
+    <string name="step_5_title">Unisciti ad un team</string>
+    <string name="step_5_body">Cliccando su \"Partecipa\" puoi visualizzare le prenotazioni effettuate dagli altri utenti in cui mancano dei giocatori e unirti al team.</string>
+    <string name="step_6_title">Visualizza un campo</string>
+    <string name="step_6_body">Cliccando su \"Campi\" potrai visualizzare tutti i campi, vederne i dettagli, la disponibilità e le recensioni, ed eventualmente prenotare uno slot.</string>
+    <string name="join_teamfinder">Entra in Team Finder!</string>
+    <string name="skip_tutorial">Salta il tutorial</string>
+    <string name="the_user">L utente : </string>
+    <string name="accepted_reservation">Sei stato accettato alla prenotazione del:</string>
+    <string name="decline_reservation">Ha rifiutato la tua prenotazione del :</string>
+    <string name="cancel_reservation">ha annullato la sua prenotazione del:</string>
+    <string name="has_been_deleted">è stata eliminata</string>
+    <string name="max_people_joinable"> Massimo di persone che possono unirsi</string>
+    <string name="people_joinable">Persone che possono unirsi</string>
+    <string name="reservation_open">Prenotazione aperta a tutti </string>
+    <string name="currently_there_are">Attualmente ci sono </string>
+    <string name="not_have_less"> partecipanti, non puoi averne  meno </string>
+    <string name="this_user_is_confirmed">Questo utente è confermato per la prenotazione del </string>
+    <string name="this_user_want_join">Questo utente vuole unirsi alla prenotazione del </string>
+    <string name="profile_detail">Dettagli Profilo</string>
+    <string name="partecipants_waiting">Utenti in attesa</string>
+    <string name="partecipants_confirmed">Participanti confermati</string>
+    <string name="accept">Accetta</string>
+    <string name="refuse">Rifiuta</string>
+
+</resources>
